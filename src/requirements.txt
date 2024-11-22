@@ -1,0 +1,6 @@
+kaggle-environments==1.16.0
+ipython
+ipykernel
+openpyxl
+pandas
+requests
